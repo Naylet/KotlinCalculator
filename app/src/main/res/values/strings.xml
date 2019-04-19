@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin Calculator</string>
+    <string name="add">+</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="result">Result</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="calculateButton">Calculate</string>
+</resources>
